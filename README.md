@@ -84,3 +84,4 @@ La que se llama www contiene un archivo de configuración, en donde se modifican
 * Envió a Hacienda del xml de Tiquete Electronico
 * Envió a Hacienda del xml de Mensaje Aceptación (Aceptación total, Parcialmente y Rechazo)
 * Consulta de estado de los comprobantes
+prueba
